@@ -63,4 +63,19 @@ yarn start
 ```
 
 ## Telas
-...
+
+#### ONG
+
+* Cadastro de ONG
+
+![](../.gifs/ong.gif)
+
+#### Casos
+
+* Login
+* Cadastro de Caso
+* Listar Casos
+* Apagar Caso
+* Logout
+
+![](../.gifs/casos.gif)
