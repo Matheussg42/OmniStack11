@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-<img src="frontend/src/assets/logo.svg" style='width: 300px'>
+<img src="../frontend/src/assets/logo.svg" style='width: 300px'>
 </p>
 
 
@@ -49,3 +49,91 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+
+## Instalando dependências
+
+Acesse a raiz da pasta `backend` pelo _terminal_, e instale as dependências usando o comando `yarn`, ou `npm`.
+
+```js
+yarn install
+```
+
+```js
+npm install
+```
+
+## Subindo a aplicação
+
+Acesse a raiz da pasta `backend` pelo _terminal_, digite o comando `yarn start`.
+
+```js
+yarn start
+```
+
+## Endpoints
+
+#### POST - Session
+
+```json
+http://localhost:3333/sessions
+```
+
+```json
+Body: {
+  "id": "dd6fa8b4"
+}
+```
+
+#### GET - profile
+
+```json
+http://localhost:3333/profile
+```
+
+#### POST - Ongs
+
+```json
+http://localhost:3333/ongs
+```
+
+```json
+Body: {
+  "name": "Nome da Ong",
+  "email": "ong@email.com.br",
+  "whatsapp": "11911111111",
+  "city": "Belo Horizonte",
+  "uf": "MG"
+}
+```
+
+#### GET - Ongs
+
+```json
+http://localhost:3333/ongs
+```
+
+#### POST - Incidents
+
+```json
+http://localhost:3333/incidents
+```
+
+```json
+Body: {
+  "title": "Titulo",
+  "description": "Descrição",
+  "value": 1000
+}
+```
+
+#### DELETE - Incidents
+
+```json
+http://localhost:3333/incidents/1
+```
+
+#### GET - Incidents
+
+```json
+http://localhost:3333/incidents
+```
