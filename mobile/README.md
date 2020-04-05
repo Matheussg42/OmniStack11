@@ -57,6 +57,18 @@ yarn install
 npm install
 ```
 
+Este projeto utiliza o Expo. Para rodar executar o projeto, é necessário instalar o pacote do Expo no seu computador, utilizando `yarn`, ou `npm`.
+
+
+```js
+yarn global add expo-cli
+```
+
+```js
+npm install -g expo-cli
+```
+Caso deseje, é possível baixar e instalar o App do Expo em seu celular, para poder rodar o aplicativo nele, caso não queira, o expo também é compatível com Emuladores.
+
 <span id="aplicacao"></span>
 ## Subindo a aplicação
 
@@ -69,18 +81,9 @@ yarn start
 <span id="telas"></span>
 ## Telas
 
-#### ONG
-
-* Cadastro de ONG
-
-![](../.gifs/ong.gif)
-
-#### Casos
-
-* Login
-* Cadastro de Caso
 * Listar Casos
-* Apagar Caso
-* Logout
+* Detalhar Caso
+* Contato via Whatsapp
+* Contato via E-mail
 
-![](../.gifs/casos.gif)
+![](../.gifs/mobile.gif)

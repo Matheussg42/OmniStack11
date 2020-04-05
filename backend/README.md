@@ -28,20 +28,25 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="/">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="/backend">Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="/frontend">Front-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="/mobile">Mobile</a>
 </p>
 
-#
+#### Nesta Página:
 
+* [Projeto](#projeto)
+* [Instalando dependências](#dependencias)
+* [Subindo a aplicação](#aplicacao)
+* [Endpoints](#endpoints)
 
+<span id="projeto"></span>
 ## Projeto
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
+<span id="dependencias"></span>
 ## Instalando dependências
 
 Acesse a raiz da pasta `backend` pelo _terminal_, e instale as dependências usando o comando `yarn`, ou `npm`.
@@ -54,6 +59,8 @@ yarn install
 npm install
 ```
 
+
+<span id="aplicacao"></span>
 ## Subindo a aplicação
 
 Acesse a raiz da pasta `backend` pelo _terminal_, digite o comando `yarn start`.
@@ -62,6 +69,8 @@ Acesse a raiz da pasta `backend` pelo _terminal_, digite o comando `yarn start`.
 yarn start
 ```
 
+
+<span id="endpoints"></span>
 ## Endpoints
 
 #### POST - Session
