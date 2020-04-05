@@ -24,7 +24,7 @@
   
   <img alt="Front-end" src="https://img.shields.io/static/v1?label=Front-end&message=Ok&color=27ae60&labelColor=444444"> 
   
-  <img alt="Mobile" src="https://img.shields.io/static/v1?label=Mobile&message=X&color=c0392b&labelColor=444444">
+  <img alt="Mobile" src="https://img.shields.io/static/v1?label=Mobile&message=Ok&color=27ae60&labelColor=444444">
 </p>
 
 <p align="center">
