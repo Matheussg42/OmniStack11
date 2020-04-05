@@ -20,9 +20,7 @@
   
   <img alt="Front-end" src="https://img.shields.io/static/v1?label=Front-end&message=Ok&color=27ae60&labelColor=444444">
   
-  <img alt="React" src="https://img.shields.io/static/v1?label=React.js&message=16.13.1&color=27ae60&labelColor=444444"> 
-  
-  <img alt="Yarn" src="https://img.shields.io/static/v1?label=Yarn&message=1.21.1&color=27ae60&labelColor=444444">
+  <img alt="React" src="https://img.shields.io/static/v1?label=React Native&message=0.61.4&color=27ae60&labelColor=444444"> 
 </p>
 
 <p align="center">

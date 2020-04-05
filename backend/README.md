@@ -23,8 +23,6 @@
   <img alt="Back-end" src="https://img.shields.io/static/v1?label=Back-end&message=Ok&color=27ae60&labelColor=444444">
   
   <img alt="Node" src="https://img.shields.io/static/v1?label=Node.js&message=13.6.0&color=27ae60&labelColor=444444"> 
-  
-  <img alt="Yarn" src="https://img.shields.io/static/v1?label=Yarn&message=1.21.1&color=27ae60&labelColor=444444">
 </p>
 
 <p align="center">
